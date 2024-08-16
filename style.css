@@ -13,7 +13,15 @@
             body{
                 font-family:sans-serif;
                 margin:5%;
+                
             }
             iframe {
                 max-width: 90;
             }
+            .photoProjects{
+                border:10px solid black;
+                margin:10% 10% 10% 10%;
+                padding: 5% 10% 10% 5%;
+
+            }
+
